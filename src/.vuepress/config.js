@@ -50,6 +50,7 @@ module.exports = {
           children: [
             '',
             'account',
+            'faq',
           ]
         }
       ],
