@@ -28,5 +28,5 @@ Gebruik je **e-mail** die je ook op [mhcflevoland.nl](http://mhcflevoland.nl/) g
 
 
 ::: tip Problemen met je account of vragen?
-Stuur dan gerust een e-mail naar clubapp@mhcflevoland.nl
+Stuur dan gerust een e-mail naar [clubapp@mhcflevoland.nl](mailto:clubapp@mhcflevoland.nl)
 :::
