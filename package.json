@@ -7,15 +7,14 @@
     "name": "jcklerk",
     "email": "justin@klerk.nl"
   },
-  "repository": "/Wiki MHCFlevoland",
+  "repository": "https://github.com/MHCFlevoland/wiki",
   "scripts": {
-    "start": "vuepress dev blog",
-    "dev": "vuepress dev blog",
-    "build": "vuepress build blog"
+    "start": "vuepress dev src",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3",
-    "vuepress-plugin-core-video-player": "^1.1.0"
+    "vuepress": "^1.5.3"
   }
 }
