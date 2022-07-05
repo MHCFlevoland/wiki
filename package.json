@@ -1,0 +1,21 @@
+{
+  "name": "Wiki MHCFlevoland",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "jcklerk",
+    "email": "justin@klerk.nl"
+  },
+  "repository": "/Wiki MHCFlevoland",
+  "scripts": {
+    "start": "vuepress dev src",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-core-video-player": "^1.1.0"
+  }
+}
