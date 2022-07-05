@@ -9,9 +9,9 @@
   },
   "repository": "/Wiki MHCFlevoland",
   "scripts": {
-    "start": "vuepress dev src",
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "start": "vuepress dev blog",
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
   },
   "license": "MIT",
   "devDependencies": {
