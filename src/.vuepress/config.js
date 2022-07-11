@@ -29,8 +29,8 @@ module.exports = {
   themeConfig: {
     repo: 'https://github.com/MHCFlevoland/wiki',
     editLinks: true,
-    docsDir: '',
-    editLinkText: '',
+    docsDir: '/src',
+    editLinkText: 'Pas pagina aan!',
     lastUpdated: false,
     nav: [
       {
