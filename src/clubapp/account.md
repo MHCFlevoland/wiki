@@ -24,7 +24,7 @@ Gebruik het **e-mailadres** dat je ook op [mhcflevoland.nl](http://mhcflevoland.
 
 ### Wat is een familie account?
 > Een familie account is een account waar meerdere kinderen onder vallen.<br>
-> Zie het als een account met een login om meerdere lidmaatschappen te beheren.
+> Zie het als een account met één login om meerdere lidmaatschappen te beheren.
 
 
 ::: tip Problemen met je account of vragen?
