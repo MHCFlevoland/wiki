@@ -1,33 +1,33 @@
-# Veel gestede vragen
+# Veel gestelde vragen
 
-## Kan mijn kind gegevns aan passen
+## Kan mijn kind gegevens aanpassen?
 
-> **Nee**, dit zit achter een 5 cijferig wachtwoord dat je moet instellen als voor het eerst oop Profiel bewerken klikt.
+> **Nee**, dit zit achter een 5-cijferig wachtwoord dat je moet instellen wanneer je voor het eerst op 'profiel bewerken' klikt.
 
-## Kan mijn kind zijn lidmaadschap wijzigen / opzeggen
+## Kan mijn kind zijn lidmaatschap wijzigen / opzeggen?
 
-> **Nee**, Wijzigen / opzeggen van lidmaadschap staat in de app uit. Dit kan alleen via [mhcflevoland.nl](http://mhcflevoland.nl) of op [allunited ledenmodule](https://pr01.allunited.nl).
+> **Nee**, Wijzigen / opzeggen van een lidmaadschap is uitgeschakeld in de app. Dit kan alleen via [mhcflevoland.nl](http://mhcflevoland.nl) of op [allunited ledenmodule](https://pr01.allunited.nl).
 
-## Kunnen ik tegelijk ingelogd zijn op meerdere apparaten.
+## Kan ik tegelijk ingelogd zijn op meerdere apparaten?
 
-> **Ja** je kan op meerdere apparaten ingelogd zijn tergelijkertijd.
+> **Ja** Je kunt op meerdere apparaten tegelijkertijd ingelogd zijn.
 
-## Kan je zelf chat grouopen aan maken?
+## Kun je zelf chatgroepen aanmaken?
 
-> **Nee**, zelf kan je dat niet maar dat kunnen wij wel voor je doen stuur dan enven een mailtje naar [clubapp@mhcflevoland.nl](mailto:clubapp@mhcflevoland.nl).
+> **Nee**, dat kunnen wij als Beheer wel voor je doen. Stuur dan een mailtje naar [clubapp@mhcflevoland.nl](mailto:clubapp@mhcflevoland.nl).
 
-## Welke gegeven kunne mensen van mij zien?
+## Welke gegevens kunnen mensen van mij inzien?
 
-> Dat licht er aan wat je hebt aan staan. Dit kan je checken / aan passen bij Privacy-instellingen beheren.
+> Dat ligt aan je instellingen. Dit kun je checken / aanpassen bij Privacy-instellingen beheren.
 
 ## Hoe werkt presentie?
 
-> Presentie bij houden kan op 2 manieren. <br>
-> 1 jij als speler kan zelf aan geven of je er wel of niet bent.
-> Dan kan de choach / trainer zien wie er wel of niet kan.<br>
-> 2 jij als choach / trainer kan op voeren  wie er wel en niet zijn.
+> Presentie bijhouden kan op twee manieren. <br>
+> 1 Als speler kun je zelf aangeven of je er wel of niet bent.
+> Dan kan de coach / trainer zien wie er wel of niet kan.<br>
+> 2 Als coach / trainer kun je aangeven wie er wel en niet zijn.
 
 
-::: tip Staat jouw vraag er niet nij?
+::: tip Staat jouw vraag er niet bij?
 Stuur dan gerust een e-mail naar [clubapp@mhcflevoland.nl](mailto:clubapp@mhcflevoland.nl)
 :::
