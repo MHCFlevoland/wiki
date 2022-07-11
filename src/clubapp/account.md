@@ -1,19 +1,19 @@
 # Account
 
 ## Register
-Om ter registeren heb toegang nodig tot je email address die bij de club bekent is om je account te kunen activeren. Je mag zelf een wachtwoord bedenken.
+Om te registreren heb je toegang nodig tot het e-mailadres dat bij de club bekend is, zodat je je account kunt activeren. Je mag zelf een wachtwoord bedenken.
 
 ::: warning LETOP!
-Gebruik je **e-mail** die je ook op [mhcflevoland.nl](http://mhcflevoland.nl/) gebruikt om in te loggen.
+Gebruik het **e-mailadres** dat je ook op [mhcflevoland.nl](http://mhcflevoland.nl/) gebruikt om in te loggen.
 :::
 
 <video src="/video/create-account.mov" controls="controls" />
 
-## Meerder accounts
+## Meerdere accounts
 
 ### Is het mogelijk om op een apparaat meerdere accounts te hebben?
-> Ja dat is mogelijk. op twee manieren
-> 1. met meerdere lossen accounts
+> Ja dat is mogelijk. Op twee manieren
+> 1. met meerdere losse accounts
 > 2. met een [familie account](#familie-account)
 
 ### Werken met losse accounts:
@@ -23,8 +23,8 @@ Gebruik je **e-mail** die je ook op [mhcflevoland.nl](http://mhcflevoland.nl/) g
 ## Familie account
 
 ### Wat is een familie account?
-> Een familie account is een account waar meerdere kinderen ondervallen.<br>
-> Zie het als een acount meet een login om meerdere kinderen te beheren.
+> Een familie account is een account waar meerdere kinderen onder vallen.<br>
+> Zie het als een account met een login om meerdere lidmaatschappen te beheren.
 
 
 ::: tip Problemen met je account of vragen?
