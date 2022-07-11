@@ -1,6 +1,6 @@
 # Account
 
-## Register
+## Registreren
 Om te registreren heb je toegang nodig tot het e-mailadres dat bij de club bekend is, zodat je je account kunt activeren. Je mag zelf een wachtwoord bedenken.
 
 ::: warning LETOP!
