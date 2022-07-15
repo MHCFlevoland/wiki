@@ -20,11 +20,12 @@ Gebruik het **e-mailadres** dat je ook op [mhcflevoland.nl](http://mhcflevoland.
 
 <video src="/video/switching-accounts.mov" controls="controls" />
 
-## Familie account
+## meerdere accounts met zelgde email
 
-### Wat is een familie account?
-> Een familie account is een account waar meerdere kinderen onder vallen.<br>
-> Zie het als een account met één login om meerdere lidmaatschappen te beheren.
+### Wat meerdere accounts met zelgde email?
+> Een meerdere accounts met zelgde email account is een account waar meerdere kinderen onder vallen om dat ze de zelfde email hebben.<br>
+> Zie het als een account met één login om meerdere lidmaatschappen kan zien op de clubapp.
+dit staat los van een familie account in allunited.
 
 
 ::: tip Problemen met je account of vragen?
