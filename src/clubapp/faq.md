@@ -27,7 +27,19 @@
 > Dan kan de coach / trainer zien wie er wel of niet kan.<br>
 > 2 Als coach / trainer kun je aangeven wie er wel en niet zijn.
 
+## Hoe wijzig ik mijn e-mail address op allunited (mhcflevoland.nl)?
 
+> Ga naar [mhcflevoland.nl](http://mhcflevoland.nl)
+> 1. klik op het 'persoon icoontje' rechtsbovenin de navigatiebalk<br>
+> 2. Login in met je allunited account. (wachtwoord kan anders zijn dan de clubnapp)
+> 3. Als je ingelogd bent Klik op het 'persoon icoontje' rechtsbovenin de navigatiebalk.
+> 4. Klik op 'Persoonlijke gegevens' boven de navigatiebalk.
+> 5. Klik op 'Wezigig gegevens'.
+> 6. Klik op het 'E-mail' veld en verander het naar je nieuwe e-mailadres.
+> 7. Klik op 'Versturen'.
+> 8. Je E-mail is nu veranderd.<br><br>
+> Letop: het kan zijn dat je je clubapp account moet verwijderen en op niew moet aan maken!
+<br>
 ::: tip Staat jouw vraag er niet bij?
 Stuur dan gerust een e-mail naar [clubapp@mhcflevoland.nl](mailto:clubapp@mhcflevoland.nl)
 :::
