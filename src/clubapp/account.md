@@ -20,13 +20,15 @@ Gebruik het **e-mailadres** dat je ook op [mhcflevoland.nl](http://mhcflevoland.
 
 <video src="/video/switching-accounts.mov" controls="controls" />
 
-## meerdere accounts met zelgde email
+## Meerdere accounts met zelfde email
 
 ### Meerdere accounts met de zelfde email?
-> Een meerdere accounts met zelgde email is een account waar meerdere kinderen onder vallen om dat ze de zelfde email hebben.<br>
+> Een meerdere accounts met zelfde email is een account waar meerdere kinderen onder vallen om dat ze de zelfde email hebben.<br>
 > Zie het als een account met één login om meerdere lidmaatschappen kan zien op de clubapp.
-::: tip Problemen met je account of vragen?
-Dit kan je aan passen op  [mhcflevoland.nl(wijzig gegevens)](https://www.mhcflevoland.nl/index.php?page=Wijzig_gegevens)
+::: tip E-mail wijzigen om dit op op te zetten ?
+Dit kan je aan passen op  [mhcflevoland.nl(wijzig gegevens)](https://www.mhcflevoland.nl/index.php?page=Wijzig_gegevens) <br>
+Uitleg: klik [hier](https://wiki.mhcflevoland.nl/clubapp/faq.html#hoe-wijzig-ik-mijn-e-mail-address-op-allunited-mhcflevoland-nl)
+
 :::
 Dit staat los van een familie account in allunited.
 
