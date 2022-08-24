@@ -22,7 +22,7 @@ Gebruik het **e-mailadres** dat je ook op [mhcflevoland.nl](http://mhcflevoland.
 <br>
 
 ::: warning LETOP!
-Wat hier gedemonteerd in de video werkt alleen op IOS (Apple telefoons)
+Wat hier gedemonstreerd in de video werkt alleen op IOS (Apple telefoons)
 :::
 
 ## Meerdere accounts met zelfde email
