@@ -19,9 +19,12 @@ Gebruik het **e-mailadres** dat je ook op [mhcflevoland.nl](http://mhcflevoland.
 ### Werken met losse accounts:
 
 <video src="/video/switching-accounts.mov" controls="controls" />
+<br>
+
 ::: warning LETOP!
 Wat hier gedemonteerd in de video werkt alleen op IOS (Apple telefoons)
 :::
+
 ## Meerdere accounts met zelfde email
 
 ### Meerdere accounts met de zelfde email?
