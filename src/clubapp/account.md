@@ -14,11 +14,16 @@ Gebruik het **e-mailadres** dat je ook op [mhcflevoland.nl](http://mhcflevoland.
 ### Is het mogelijk om op een apparaat meerdere accounts te hebben?
 > Ja dat is mogelijk. Op twee manieren
 > 1. met meerdere losse accounts
-> 2. met een [familie account](#familie-account)
+> 2. met een [een account met meerdere leden](#meerdere-accounts-met-zelfde-email)
 
 ### Werken met losse accounts:
 
 <video src="/video/switching-accounts.mov" controls="controls" />
+<br>
+
+::: warning LETOP!
+Wat hier gedemonstreerd in de video werkt alleen op IOS (Apple telefoons)
+:::
 
 ## Meerdere accounts met zelfde email
 
