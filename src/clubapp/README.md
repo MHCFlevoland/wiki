@@ -13,5 +13,3 @@ Met de ClubApp kun je je agenda inzien, informatie krijgen en je presentie opgev
 > Wij willen het trainers en coaches zo gemakkelijk mogelijk maken doordat ze nu alles in één app kunnen beheren.
 
 > Wedstrijden en trainingen worden automatisch in de app gezet, dus dat hoeft men niet zelf te doen.
-
-
