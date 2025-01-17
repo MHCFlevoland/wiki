@@ -45,6 +45,10 @@ module.exports = {
         link: "/clubapp/",
       },
       {
+        text: "Intern",
+        link: "/Intern/",
+      },
+      {
         text: "MHCFlevoland",
         link: "https://MHCFlevoland.nl/",
       },
@@ -60,6 +64,20 @@ module.exports = {
       "/website/": [
         {
           title: "Website",
+          collapsable: true,
+          children: [""],
+        },
+      ],
+      "/intern/": [
+        {
+          title: "Interne Documentatie",
+          collapsable: true,
+          children: [""],
+        },
+      ],
+      "/intern/mail/": [
+        {
+          title: "Mail",
           collapsable: true,
           children: [""],
         },
